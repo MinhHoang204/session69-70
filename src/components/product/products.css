@@ -1,0 +1,43 @@
+.notification {
+    background-color: #dff0d8;
+    color: #3c763d;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    text-align: center;
+}
+  
+.products {
+    margin: 20px;
+}
+  
+.product-item {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+  
+.product-item h3 {
+    margin: 0 0 10px;
+}
+  
+.product-item p {
+    margin: 5px 0;
+}
+  
+.product-item button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+  
+.product-item button:hover {
+    background-color: #0056b3;
+}
+  
